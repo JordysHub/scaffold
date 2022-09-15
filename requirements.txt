@@ -1,0 +1,5 @@
+pylint
+pytest
+click
+black==22.8.0
+pytest-cov
